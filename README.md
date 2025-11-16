@@ -80,3 +80,13 @@ NLP Components (LSTM, Transformer).
 
       pytest tests/
 
+📚 Applications
+
+Assistive technologies (alt-text for visually impaired users).
+
+Automated metadata generation.
+
+Smart search and content tagging.
+
+Robotics and scene understanding.
+
